@@ -1,12 +1,5 @@
 <h1 align="center"> Flappy Bird </h1>
 
-<p align="center">
-  <a href="https://github.com/FelipeJanotte/flappy-bird#about">📝 About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/FelipeJanotte/flappy-bird#technologies">💻 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/FelipeJanotte/flappy-bird#tools">⚒ Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/FelipeJanotte/flappy-bird#download">💾 Download</a>
-</p>
-
 <p  align="center">
   <img src="https://media2.giphy.com/media/IzRwXjSTs991AWuIfZ/giphy.gif" align="center">
 </p>
