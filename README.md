@@ -13,7 +13,7 @@
 ---
 
 ## 📝 About | Sobre
-This ** repository ** aims to store the ** project ** that we did in order to put into practice that I have been studying.
+This **repository** aims to store the **project** that we did in order to put into practice that I have been studying.
 **Instructor:** [Alisson Suassuna](https://github.com/alissonsuassuna)
 
 Este **repositório** tem como objetivo armazenar o **projeto** que fizemos com intuito de colocarmos em prática que venho estudando.
