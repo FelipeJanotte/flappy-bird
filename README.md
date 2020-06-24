@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://github.com/FelipeJanotte/flappy-bird#-sobre">📝 About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/FelipeJanotte/flappy-bird#-tecnologias">💻 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/FelipeJanotte/flappy-bird#-baixar">⚒ Download</a>
+  <a href="https://github.com/FelipeJanotte/flappy-bird#-ferramentas">⚒ Tools</a>
+  <a href="https://github.com/FelipeJanotte/flappy-bird#-baixar">💾 Download</a>
 </p>
 
 <p  align="center">
