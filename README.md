@@ -1,10 +1,10 @@
 <h1 align="center"> Flappy Bird </h1>
 
 <p align="center">
-  <a href="https://github.com/FelipeJanotte/flappy-bird#-sobre">📝 About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/FelipeJanotte/flappy-bird#-tecnologias">💻 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/FelipeJanotte/flappy-bird#-ferramentas">⚒ Tools</a>
-  <a href="https://github.com/FelipeJanotte/flappy-bird#-baixar">💾 Download</a>
+  <a href="https://github.com/FelipeJanotte/flappy-bird#sobre">📝 About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FelipeJanotte/flappy-bird#tecnologias">💻 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FelipeJanotte/flappy-bird#ferramentas">⚒ Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FelipeJanotte/flappy-bird#baixar">💾 Download</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p  align="center">
